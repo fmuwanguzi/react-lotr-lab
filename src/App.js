@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Movie from './Movie'
 
-function App(props) {
+function App() {
   return (
     <div className="App">
       <header className="App-header">
